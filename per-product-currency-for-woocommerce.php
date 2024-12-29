@@ -4,7 +4,7 @@ Plugin Name: Per Product Currency For WooCommerce
 Description: Allows setting a custom currency per product in WooCommerce, including affiliate products and homepage loops.
 Version: 1.4
 Author: Koderoo
-Author URI: https://koderoo.dev
+Author URI: https://koderoo.site
 License: GPL v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Requires Plugins: woocommerce
